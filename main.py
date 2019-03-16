@@ -2,7 +2,8 @@
 import pipe
 
 
-#if we wanted to check out some of the data first without uploading:
+# if we wanted to check out some of the data first without uploading, or 
+# if a data scientist wanted to perform some operations within python:
 data = pipe.build()
 print(data.columns)
 print(data.shape)
