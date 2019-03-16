@@ -1,3 +1,8 @@
+# Ben's custom ignores
+venv/
+.DS_Store
+Data Engineer at Home Project.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
